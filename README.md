@@ -1,6 +1,9 @@
 # FH6 Glitch XP Farm AFK Macro
 
-Subscribe to my channel - https://www.youtube.com/@krevetti
+Subscribe to my channel:
+https://www.youtube.com/@krevetti (UA)
+
+https://www.youtube.com/@justplayxp
 
 Windows macro runner that creates a virtual Xbox 360 controller and loops a timed gamepad sequence.
 

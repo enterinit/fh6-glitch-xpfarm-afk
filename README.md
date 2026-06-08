@@ -1,6 +1,6 @@
 # FH6 Glitch XP Farm AFK Macro
 
-Subscribe to my channel:
+Subscribe to my channels:
 
 https://www.youtube.com/@krevetti (UA)
 
